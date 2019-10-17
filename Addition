@@ -5,3 +5,9 @@ int add;
 add=num1+num2;
 System.out.prinln("Addition: " +add);
 }
+public void multiplication(int num1,int num2)
+{
+  int multi;
+  multi=num1*num2;
+System.out.println("Multiplication :"+multi);
+}
